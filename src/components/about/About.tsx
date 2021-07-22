@@ -70,7 +70,7 @@ const Spacer = styled.div`
   margin-bottom: 1rem;
 `;
 
-const url = 'http://cannabis.org';
+const url = 'https://cannabischain.net';
 
 type Props = {
   version: string;
