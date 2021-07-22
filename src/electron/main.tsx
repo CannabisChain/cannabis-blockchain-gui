@@ -392,7 +392,7 @@ if (!handleSquirrelEvent()) {
           {
             label: i18n._(/* i18n */ { id: 'Follow on Twitter' }),
             click: () => {
-              openExternal('https://twitter.com/CoinCannabis');
+              openExternal('https://twitter.com/cannabisblockch');
             },
           },
         ],
