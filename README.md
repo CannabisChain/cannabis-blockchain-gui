@@ -11,7 +11,7 @@
 ## Info:
 - [Discord](https://discord.com/invite/EDcFpwMJ)
 - [Website](https://cannabischain.net)
-- [Explorer (Coming soon)](https://exprlorer.cannabischain.net)
+- [Explorer (Coming soon)](https://explorer.cannabischain.net)
 - [Faucet (Coming soon)](https://faucet.cannabischain.net)
 
 Cannabis is a modern project built on the Chia-Blockchain, designed to be efficient, decentralized, and secure. Here are some of the features and benefits:
